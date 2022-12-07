@@ -3,6 +3,7 @@
 
 void main(List<String> args) {
   print(divideBy(dividend: 20,)); 
+  print(divideBy(dividend: 20, divisor: 2));
 }
 
 
