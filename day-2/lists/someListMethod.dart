@@ -2,7 +2,7 @@
 // demo on looping through sets
 
 void main(List<String> args) {
-  Set people = {"John", "Kalvin"};
+  List people = ["John", "Kalvin"];
   print(people.elementAt(1));
   
   // add objects
