@@ -1,5 +1,5 @@
 // author: Kenneth Yaw Obeng(yawok)
-// demo on looping through Maps
+// demo on some Maps methods
 
 void main(List<String> args) {
   Map days = {
