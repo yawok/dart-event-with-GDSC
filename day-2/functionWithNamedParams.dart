@@ -2,11 +2,17 @@
 // demo of function with named parameters
 
 void main(List<String> args) {
-  print(divideBy(dividend: 20, divisor: 10)); 
+  print(divideBy(dividend: 20,)); 
 }
 
 
-double divideBy({required double dividend, required double divisor}){
-  double solution = dividend / divisor;
+double divideBy({required double dividend, double? divisor}){
+  double solution;
+  if( divisor != null){
+    solution = dividend / divisor;
+  } else {
+    solution = dividend / 1;
+  }
+
   return solution;
 }
