@@ -1,7 +1,7 @@
 // author: Kenneth Yaw Obeng(yawok)
-// demo on using forEach with lists
+// demo on for loops
 
-void main(List<String> args) {
+void main() {
   int limit = 10;
   for(int i = 0; i < limit; i++){
     print(i);

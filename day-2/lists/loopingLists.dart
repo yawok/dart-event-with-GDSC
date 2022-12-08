@@ -1,7 +1,7 @@
 // author: Kenneth Yaw Obeng(yawok)
 // demo on looping through lists
 
-void main(List<String> args) {
+void main() {
   List<String> names = ['Ruth', 'josh', 'fred'];
   printList(names);
 

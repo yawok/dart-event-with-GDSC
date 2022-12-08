@@ -1,7 +1,7 @@
 // author: Kenneth Yaw Obeng(yawok)
 // demo of function with named parameters
 
-void main(List<String> args) {
+void main() {
   print(divideBy(dividend: 20,)); 
   print(divideBy(dividend: 20, divisor: 2));
 }

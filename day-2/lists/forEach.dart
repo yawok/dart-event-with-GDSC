@@ -1,7 +1,7 @@
 // author: Kenneth Yaw Obeng(yawok)
 // demo on using forEach with lists
 
-void main(List<String> args) {
+void main() {
   List<String> names = ['Ruth', 'josh', 'fred'];
   names.forEach((element) {
     print(element.toUpperCase());

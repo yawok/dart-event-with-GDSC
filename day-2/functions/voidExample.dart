@@ -2,7 +2,7 @@
 // demo for a function that can use void aside main
 
 
-void main(List<String> args) {
+void main() {
   printName("Jerry", "Ross");
   printName("Jack", "Dorsy", "Kwabena");
 }

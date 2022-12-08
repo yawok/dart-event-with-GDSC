@@ -1,7 +1,7 @@
 // author: Kenneth Yaw Obeng(yawok)
 // demo on do-while loops
 
-void main(List<String> args) {
+void main() {
   int limit = 10;
 
   do{

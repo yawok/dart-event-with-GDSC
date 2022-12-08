@@ -1,7 +1,7 @@
 // author: Kenneth Yaw Obeng(yawok)
 // demo on using forEach with lists
 
-void main(List<String> args) {
+void main() {
   int limit = 10;
 
   while(limit > 0){

@@ -1,7 +1,7 @@
 // author: Kenneth Yaw Obeng(yawok)
 // demo of a function with positional parameters
 
-void main(List<String> args) {
+void main() {
   var authorName1 = fullName("Stephen", "King");
   var authorName2 = fullName("Larry", "Page", "Kwadwo");
 

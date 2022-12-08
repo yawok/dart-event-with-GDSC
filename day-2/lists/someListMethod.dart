@@ -1,7 +1,7 @@
 // author: Kenneth Yaw Obeng(yawok)
 // demo on looping through sets
 
-void main(List<String> args) {
+void main() {
   List people = ["John", "Kalvin"];
   print(people.elementAt(1));
   

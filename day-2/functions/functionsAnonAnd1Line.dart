@@ -1,7 +1,7 @@
 // author: Kenneth Yaw Obeng(yawok)
 // demo of the anonymous function and one line functiosn
 
-void main(List<String> args) {
+void main() {
   // anonymous function
   var cube = (int n){ 
     return n*n*n;
