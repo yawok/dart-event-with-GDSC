@@ -3,7 +3,7 @@
 
 import 'dart:io';
 
-void main(List<String> args) {
+void main() {
   print('Enter a set of doubles 1 by 1. Enter q to quit.');
   var ourList = collectNumbers();
   print(ourList);
