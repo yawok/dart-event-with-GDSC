@@ -9,8 +9,10 @@ void main() {
     limit--;
   }
 
+  limit = 10;
   while(true){
     // not an infinite loop
+    limit--;
     if(limit < 0){
       break;
     }else if(limit % 2 == 0) {
