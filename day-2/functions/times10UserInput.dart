@@ -2,7 +2,7 @@
 // a demo of functions with user input
 
 import 'dart:io';
-void main(List<String> args) {
+void main() {
   print('Number times 10\nEnter a number');
   var userIn = stdin.readLineSync();
 
