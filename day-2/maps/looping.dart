@@ -1,7 +1,7 @@
 // author: Kenneth Yaw Obeng(yawok)
 // demo on looping through Maps
 
-void main(List<String> args) {
+void main() {
   Map days = {
     1: "Sunday",
     2: "Monday", 
