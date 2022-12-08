@@ -1,7 +1,7 @@
 // author: Kenneth Yaw Obeng(yawok)
 // a demo of functions 
 
-void main(List<String> args) {
+void main() {
   print(times10(1.23));
   print(times10(1223));
 }
