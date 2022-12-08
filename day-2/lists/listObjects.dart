@@ -1,7 +1,7 @@
 // author: Kenneth Yaw Obeng(yawok)
 // demo of how to access list objects using their indexes
 
-void main(List<String> args) {
+void main() {
   List ages = [22, 21, 22, 24, 20, 17]; 
   print(ages[0]);
   print(ages[1]);
