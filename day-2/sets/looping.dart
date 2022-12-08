@@ -1,7 +1,7 @@
 // author: Kenneth Yaw Obeng(yawok)
 // demo on looping through sets
 
-void main(List<String> args) {
+void main() {
   Set<String> names = {'Ruth', 'josh', 'fred'};
   printList(names);
 
