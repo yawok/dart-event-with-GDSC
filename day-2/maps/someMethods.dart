@@ -8,10 +8,16 @@ void main() {
     3: "Tuesday", 
     4: "Wednesday"
   };
+
+  print(days[4]);
+  print("Yesterday was a ${days[4]}");
+
   Map<String, String> capitals = {
     "Ghana": "Accra",
     "Nigeria": "Lagos",
   };
+
+  print(capitals['Ghana']);
 
   // adding to maps
   capitals['China'] = "Beijing";
